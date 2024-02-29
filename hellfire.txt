@@ -1,0 +1,8 @@
+(signature)
+game
+hero
+heroitems
+additionalMissiles
+hotkeys
+spstashitems
+mpstashitems
